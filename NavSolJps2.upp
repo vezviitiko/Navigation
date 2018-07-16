@@ -1,0 +1,12 @@
+uses
+	Core;
+
+file
+	FunMatrix.h,
+	NavSolJps2.h,
+	NavSolJps2.cpp,
+	FunMatrix.cpp;
+
+mainconfig
+	"" = "";
+
